@@ -1,2 +1,2 @@
-# Atrrision Analysis
+# Attrition Analysis
 ### Live Demo : [Attrition Analyst](https://attritionanalyst.streamlit.app/)
